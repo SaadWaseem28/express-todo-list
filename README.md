@@ -1,3 +1,3 @@
 # express-todo-list
 
-Author - Saad Waseem
+Author - Saad Waseem Cheema
